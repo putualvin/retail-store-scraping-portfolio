@@ -1,0 +1,2746 @@
+{
+    "title": "Jumbo Supermarkten bij jou in de buurt",
+    "navigationTitle": "Jumbo Supermarkten",
+    "meta": [
+        {
+            "name": "description",
+            "content": "Ontdek alle Jumbo Supermarkten in België: provincie Antwerpen, Limburg, Oost-Vlaanderen en West-Vlaanderen."
+        },
+        {
+            "name": "robots",
+            "content": "index, follow"
+        },
+        {
+            "name": "og:url",
+            "content": "https://www.jumbo.com/nl-be/winkels"
+        },
+        {
+            "name": "og:title",
+            "content": "Jumbo Supermarkten bij jou in de buurt"
+        },
+        {
+            "name": "og:description",
+            "content": "Ontdek alle Jumbo Supermarkten in België: provincie Antwerpen, Limburg, Oost-Vlaanderen en West-Vlaanderen."
+        }
+    ],
+    "link": [
+        {
+            "rel": "canonical",
+            "href": "https://www.jumbo.com/nl-be/winkels"
+        },
+        {
+            "rel": "alternate",
+            "hreflang": "nl-NL",
+            "href": "https://www.jumbo.com/winkels"
+        },
+        {
+            "rel": "alternate",
+            "hreflang": "nl-BE",
+            "href": "https://www.jumbo.com/nl-be/winkels"
+        }
+    ],
+    "tags": [],
+    "data": [
+        {
+            "type": "jum-page-header",
+            "properties": {
+                "locale": "nl-BE"
+            }
+        },
+        {
+            "type": "fep-container",
+            "children": [
+                {
+                    "type": "fep-breadcrumbs",
+                    "properties": {
+                        "breadcrumbs": [
+                            {
+                                "title": "Jumbo Supermarkten",
+                                "url": "https://www.jumbo.com/nl-be/winkels"
+                            }
+                        ]
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-m"
+                    }
+                },
+                {
+                    "type": "fep-banner-hero",
+                    "properties": {
+                        "imageRenditions": {
+                            "s": "https://www.jumbo.com/dam/belgie/Page-Hero-BE-Winkels-S.jpg",
+                            "l": "https://www.jumbo.com/dam/belgie/Page-Hero-BE-Winkels-L.jpg"
+                        },
+                        "imageSrc": "https://www.jumbo.com/dam/belgie/Page-Hero-BE-Winkels-S.jpg",
+                        "imageAlt": "Alles voor iedere BBQ",
+                        "textColor": "white",
+                        "fullPageWidth": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-m xs:u-margin-bottom-m"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-heading",
+                            "properties": {
+                                "markdownText": "**Jumbo Supermarkten België**",
+                                "styled": "h1",
+                                "type": "h1",
+                                "handwritten": false
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 12,
+                                "l": 12
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Supermarkten bij jou in de buurt**",
+                                        "type": "h2",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "secondary",
+                                        "iconPlacement": "left",
+                                        "analyticsLabel": "Antwerpen",
+                                        "block": false,
+                                        "text": "Antwerpen",
+                                        "href": "#antwerpen",
+                                        "label": "Antwerpen",
+                                        "openInNewTab": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-m xs:u-margin-right-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "secondary",
+                                        "iconPlacement": "left",
+                                        "analyticsLabel": "Limburg",
+                                        "block": false,
+                                        "text": "Limburg",
+                                        "href": "#limburg",
+                                        "label": "Limburg",
+                                        "openInNewTab": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-m xs:u-margin-right-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "secondary",
+                                        "iconPlacement": "left",
+                                        "analyticsLabel": "Oost-Vlaanderen",
+                                        "block": false,
+                                        "text": "Oost-Vlaanderen",
+                                        "href": "#oost-vlaanderen",
+                                        "label": "Oost-Vlaanderen",
+                                        "openInNewTab": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-m xs:u-margin-right-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "secondary",
+                                        "iconPlacement": "left",
+                                        "analyticsLabel": "Vlaams-Brabant",
+                                        "block": false,
+                                        "text": "Vlaams-Brabant",
+                                        "href": "#vlaams-brabant",
+                                        "label": "Vlaams-Brabant",
+                                        "openInNewTab": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-m xs:u-margin-right-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "secondary",
+                                        "iconPlacement": "left",
+                                        "analyticsLabel": "West-Vlaanderen",
+                                        "block": false,
+                                        "text": "West-Vlaanderen",
+                                        "href": "#west-vlaanderen",
+                                        "label": "West-Vlaanderen",
+                                        "openInNewTab": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-m xs:u-margin-right-m"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "fep-divider"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl",
+                        "id": "antwerpen"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 12,
+                                "l": 12
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Antwerpen**",
+                                        "type": "h2",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo%20Antwerpen%20city%20692x346.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-antwerpen-operaplein",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo City Antwerpen**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Teniersplaats 5<br />\r\n2000 Antwerpen"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-antwerpen-operaplein",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2023/winkels/Jumbo-Antwerpen-Lange-Leemstraat.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-antwerpen-lange-leemstraat",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Antwerpen Lange Leemstraat**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Lange Leemstraat 145<br>\r\n2018 Antwerpen"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-antwerpen-lange-leemstraat",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-Balen.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-balen",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Balen**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Vaartstraat 132<br>\r\n2490 Balen"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-balen",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Winkels-Boom-ingang.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-boom",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Boom**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Marcella van den Brilplein 6 <br>\r\n2850 Boom"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-boom",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-Deurne-BE.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-deurne-ten-eekhovelei",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Deurne Ten Eekhovelei**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Ten Eekhovelei 43<br>\r\n2100 Deurne"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-deurne-ten-eekhovelei",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-Deurne-winkel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-deurne-wim-saerensplein",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Deurne Wim Saerensplein**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Wim Saerensplein 8-10<br>\r\n2100 Deurne"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-deurne-wim-saerensplein",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2023/winkels/Lier.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-lier-antwerpsesteenweg",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Lier**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Antwerpsesteenweg 382<br>\r\n2500 Lier"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-lier-antwerpsesteenweg",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2022/winkels/Jumbo-Niel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-niel",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Niel**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Boomsestraat 152<br>\r\n2845 Niel"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-niel",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2020/winkels/Jumbo-BE-Ranst.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-ranst-kromstraat",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Ranst**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Kromstraat 111<br>\r\n2520 Ranst"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-ranst-kromstraat",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-BE-Rijkevorsel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-rijkevorsel-merksplassesteenweg",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Rijkevorsel**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Merksplassesteenweg 106B<br>\r\n2310 Rijkevorsel"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-rijkevorsel-merksplassesteenweg",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2022/winkels/Jumbo-Rumst.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-rumst",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Rumst**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Tuinwijk 66<br>\r\n2840 Rumst"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-rumst",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "fep-divider"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl",
+                        "id": "limburg"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 12,
+                                "l": 12
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Limburg**",
+                                        "type": "h2",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo%20Bree%20692x346.jpeg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-bree",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Bree**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Sportlaan 44<br>\r\n3960 Bree"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-bree",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2023/winkels/Jumbo-Bilzen.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-bilzen-tongersestraat",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Bilzen**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Tongersestraat 56,<br>\r\n3740 Bilzen"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-bilzen-tongersestraat",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-Heusden-winkel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-heusden-zolder",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Heusden-Zolder**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Koolmijnlaan 28-34<br>\r\n3550 Heusden-Zolder"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-heusden-zolder",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-Lanaken-store.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-lanaken-steenweg",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Lanaken**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Steenweg 38<br>\r\n3621 Lanaken"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-lanaken-steenweg",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-BE-Winkel-Lommel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-lommel",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Lommel**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Koning Leopoldlaan 66<br>\r\n3920 Lommel"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-lommel",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/pelt-overview-winkel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-pelt-de-koel",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Pelt**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "De Koel 16B<br>\r\n3900 Pelt"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-pelt-de-koel",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Sint-Lambrechts-Herk.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-sint-lambrechts-herk",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Sint-Lambrechts-Herk**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Sint Truidersteenweg 448<br>\r\n3500 Sint-Lambrechts-Herk (Hasselt)"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-sint-lambrechts-herk",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2022/winkels/Sint-Truiden.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-sint-truiden",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Sint-Truiden**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Luikersteenweg 242<br>\r\n3800 Sint Truiden"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-sint-truiden",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Tessenderlo.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-tessenderlo",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Tessenderlo**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Diesterstraat 171<br>\r\n3980&nbsp;Tessenderlo"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-tessenderlo",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "fep-divider"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl",
+                        "id": "oost-vlaanderen"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 12,
+                                "l": 12
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Oost-Vlaanderen**",
+                                        "type": "h2",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2022/winkels/Jumbo-Baasrode.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-baasrode",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Baasrode**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Theodoor Vermijlenstraat 1<br>\r\n9200 Baasrode"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-baasrode",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo%20Winkel%20Berlare%20512x256.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-berlare",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Berlare**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Brugstraat 46<br>\r\n9290 Berlare"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-berlare",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-BE-Beveren.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-beveren",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Beveren**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Pareinpark 8b<br>\r\n9120 Beveren"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-beveren",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Winkels-Denderleeuw.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-denderleeuw",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Denderleeuw**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Lindestraat 2<br>\r\n9470 Denderleeuw"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-denderleeuw",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-Foodmarkt-Gent-Winkel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-foodmarkt-gent",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Foodmarkt Gent**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Vliegtuiglaan 10<br>\r\n9000 Gent"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-foodmarkt-gent",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Winkels-Maldegem.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-maldegem",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Maldegem**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Koning Leopoldlaan 3<br>\r\n9990 Maldegem"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-maldegem",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-Ninove.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-ninove",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Ninove**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Brakelsesteenweg 229<br>\r\n9406 Ninove"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-ninove",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo-BE-Winkel-Lommel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-oudenaarde",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Oudenaarde**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Gentstraat 72<br>\r\n9700&nbsp;Oudenaarde"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-oudenaarde",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo%20winkel%20Ronse%20512x256.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-ronse",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Ronse**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Cesar Snoecklaan 3<br>\r\n9600 Ronse"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-ronse",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2022/winkels/Winkel-Stekene.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-stekene",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Stekene**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Dorpsstraat 52<br>\r\n9190 Stekene"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-stekene",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-Zelzate.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-zelzate",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Zelzate**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Assenedesteenweg 117-125<br>\r\n9060 Zelzate"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-zelzate",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "fep-divider"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl",
+                        "id": "vlaams-brabant"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 12,
+                                "l": 12
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Vlaams-Brabant**",
+                                        "type": "h2",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Winkels-Tienen.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-tienen",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Tienen**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Leuvenselaan 477A<br>\r\n3300 Tienen"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-tienen",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "fep-divider"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl",
+                        "id": "west-vlaanderen"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 12,
+                                "l": 12
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**West-Vlaanderen**",
+                                        "type": "h2",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo%20Kuurne%20692x346.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-kuurne",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Kuurne**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Ringlaan 16<br>\r\n8520 Kuurne"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-kuurne",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/Jumbo%20Winkel%20Lauwe%20692x346.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-lauwe",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Lauwe**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Lauwbergstraat 29/37<br>\r\n8930 Menen"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-lauwe",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Middelkerke.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-middelkerke-oostendelaan",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Middelkerke**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Oostendelaan 300 C<br>\r\n8430 Middelkerke"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-middelkerke-oostendelaan",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Oostende-Winkel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-oostende",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Oostende**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Torhoutsesteenweg 703<br>\r\n8400 Oostende"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-oostende",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/2022/winkels/Jumbo-Veurne.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-veurne",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Veurne**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Monnikshoekstraat 6<br>\r\n8630 Veurne"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-veurne",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Zedelgem-winkel.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-zedelgem",
+                                        "renditions": {}
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Zedelgem**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Torhoutsesteenweg 206<br>\r\n8210 Zedelgem"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-zedelgem",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "s": 6,
+                                "l": 3,
+                                "m": 4
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-image",
+                                    "properties": {
+                                        "src": "https://www.jumbo.com/dam/belgie/winkels/Jumbo-BE-Winkels-Roeselare.jpg",
+                                        "lazy": true,
+                                        "linkUrl": "/nl-be/winkels/jumbo-roeselare",
+                                        "renditions": {},
+                                        "block": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Jumbo Roeselare**",
+                                        "type": "h4",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-s xs:u-margin-bottom-s"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Meensesteenweg 610<br>\r\n8800 Roeselare"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-button",
+                                    "properties": {
+                                        "appearance": "tertiary",
+                                        "iconPlacement": "right",
+                                        "analyticsLabel": "Bekijk deze winkel",
+                                        "icon": "jum-chevron-right",
+                                        "block": false,
+                                        "text": "Bekijk deze winkel",
+                                        "href": "/nl-be/winkels/jumbo-roeselare",
+                                        "label": "Bekijk deze winkel",
+                                        "openInNewTab": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {},
+                            "children": [
+                                {
+                                    "type": "fep-divider"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "fep-grid",
+                    "properties": {
+                        "border": false
+                    },
+                    "attributes": {
+                        "class": "xs:u-margin-top-xl xs:u-margin-bottom-xl"
+                    },
+                    "children": [
+                        {
+                            "type": "fep-grid-cell",
+                            "properties": {
+                                "l": 9
+                            },
+                            "children": [
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Is er een Jumbo supermarkt bij mij in de buurt?**",
+                                        "type": "h3",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Wil jij ook graag je boodschappen doen bij Jumbo? We werken er hard aan om ervoor te zorgen dat er voor iedereen een Jumbo supermarkt in de buurt is. Bekijk snel in het overzicht wat voor jou de dichtstbijzijnde Jumbo supermarkt is. En houd de pagina regelmatig in de gaten, want de lijst wordt steeds langer!"
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-heading",
+                                    "properties": {
+                                        "markdownText": "**Welke Jumbo supermarkt is open op zondag?**",
+                                        "type": "h3",
+                                        "handwritten": false
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-top-xxl xs:u-margin-bottom-m"
+                                    }
+                                },
+                                {
+                                    "type": "fep-rich-text",
+                                    "properties": {
+                                        "content": "Zeven dagen in de week terecht kunnen bij je favoriete supermarkt? Veel van onze Jumbo supermarkten zijn ook op zondag open. Sommige de hele dag, andere een dagdeel. Klik bij de gewenste Jumbo door naar de openingstijden om te zien van hoe laat tot hoe laat de supermarkt open is op zondag."
+                                    },
+                                    "attributes": {
+                                        "class": "xs:u-margin-bottom-m"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "fep-footer",
+            "properties": {
+                "locale": "nl-BE"
+            }
+        }
+    ]
+}
